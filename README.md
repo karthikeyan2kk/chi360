@@ -1,3 +1,5 @@
+Demo Link: https://www.youtube.com/watch?v=EHFtcalkXnI
+
 We built LoopMind — Chicago's first AI City Intelligence Platform.
 
 Not one tool. Not one feature. Six specialized AI agents, unified into a single application, each one targeting a specific verified problem that Chicagoans face every single day.
